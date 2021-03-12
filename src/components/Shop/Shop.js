@@ -58,7 +58,7 @@ const Shop = () => {
                 <Link to="/review"><button className="namebtn">Review order</button></Link>
                 </Cart>
             </div>
-            <Router></Router>
+            
         </div>
         
     );
